@@ -7,6 +7,3 @@ fromage
 crouton
 chevre
 sésame
-sel
-sauce
-mozarelle
