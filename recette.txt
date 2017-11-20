@@ -4,5 +4,4 @@ sel
 poivre
 vinaigre
 fromage
-crouton
 sauce soja
