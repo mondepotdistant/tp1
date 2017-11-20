@@ -6,4 +6,3 @@ vinaigre
 fromage
 crouton
 chevre
-sésame
