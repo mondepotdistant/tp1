@@ -7,3 +7,4 @@ fromage
 crouton
 chevre
 sésame
+sel
