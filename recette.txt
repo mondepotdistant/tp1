@@ -4,5 +4,3 @@ sel
 poivre
 vinaigre
 fromage
-
-poulet
