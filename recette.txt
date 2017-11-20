@@ -8,3 +8,4 @@ crouton
 sauce soja
 sel
 chevre
+sésame
